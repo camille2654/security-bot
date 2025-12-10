@@ -1,0 +1,7 @@
+{
+  "prefix": "!",
+  "token": "YOUR_TOKEN_HERE",
+  "modLogChannel": "mod-logs",
+  "warningThreshold": 5,
+  "defaultMuteDuration": "1h"
+}
